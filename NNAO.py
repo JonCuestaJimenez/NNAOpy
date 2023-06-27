@@ -9,7 +9,7 @@ class Simulator():
         pass
 
     def ModifyParameters(self, new_parameters):
-            pass
+        pass
     
     def RunSimulation(self):
         pass
